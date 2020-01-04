@@ -1,0 +1,36 @@
+#search {
+  height: 23px;
+  width: 360px;
+  border: 1px solid #092b40;
+  height: 50px;
+  padding-left: 20px;
+  margin: 0 auto;
+  border: 0;
+  margin-bottom: 15px;
+}
+
+#search[placeholder] {
+  font-size: 20px;
+}
+.heading {
+  margin: 0;
+  color: #fff !important;
+  font-family: 'Bowlby One', cursive;
+}
+i {
+  color: #fff;
+  font-size: 14px;
+  letter-spacing: 2px;
+}
+.searchBox {
+  margin-top: 15px;
+}
+.shortHr {
+  width: 100px;
+  border-bottom: 2px solid #fff;
+}
+.jumbotron {
+  border-radius: 0px;
+  background: linear-gradient(to top, #33ccff 0%, #092b40 100%);
+  padding: 12px;
+}

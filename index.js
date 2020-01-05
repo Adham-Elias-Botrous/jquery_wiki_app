@@ -7,7 +7,6 @@ function ajaxCall() {
           'https://en.wikipedia.org/w/api.php?action=query&list=search&format=json&origin=*&srsearch=' +
           $('#search').val(),
         success: function(data) {
-          console.log(data);
           $('#update').empty();
           // loop through data and output
           var output = '';

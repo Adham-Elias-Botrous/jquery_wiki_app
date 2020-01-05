@@ -1,6 +1,6 @@
 #search {
   height: 23px;
-  width: 360px;
+  max-width: 360px;
   border: 1px solid #092b40;
   height: 50px;
   padding-left: 20px;
